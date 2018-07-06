@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-blueprint": {
+    "promptValues": {
+      "githubName": "LoveEmperor",
+      "authorName": "du xwz",
+      "authorEmail": "245515230@qq.com",
+      "authorUrl": "www.szfangle.com"
+    }
+  }
+}
